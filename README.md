@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gustavo Vieira
+# 🧑‍🎓 Gustavo Vieira
 **`Desenvolvedor FullStack`**
 
 Me chamo Gustavo Vieira, tenho 15 anos e sou natural de Ribeirão Pires/SP. Atualmente estou cursando o ensino médio, com o curso técnico em informática para internet. 
