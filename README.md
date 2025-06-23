@@ -11,7 +11,7 @@
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=header&animation=blinking&fontSize=50&fontColor=000000&fontAlignY=40&stroke=008000&strokeWidth=5"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Linguagem+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Progração=+;Second+line+of+text)](https://git.io/typing-svg)
 
 
  
@@ -19,10 +19,7 @@
   <a href="https://budri.com.br" target="_blank">
    <img src="https://img.shields.io/badge/✨_Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=black&animate=pulse" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/emilly-budri-bognar/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&animate=glow" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/emillybudri/" target="_blank">
+  <a href="https://www.instagram.com/vieiragu_eo/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&animate=glow" alt="Instagram"/>
   </a>
  </p>
@@ -31,7 +28,7 @@
 ---
 
 
-<p align="justify">👋 Olá! Sou Emilly, desenvolvedora Front-end e Mobile com uma paixão especial por UX Design. Acredito que a tecnologia deve ser não só funcional, mas também encantadora e acessível para todos. Meu foco é criar experiências digitais que conectam pessoas e impulsionam negócios de forma intuitiva e inovadora. Atualmente, estou aprimorando minhas habilidades no Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Luigi Papaiz. Também sou competidora no InterFatecs, o segundo maior campeonato de programação do Brasil — um desafio que me motiva a crescer e superar limites todos os dias! 🚀✨</p>
+<p align="justify">👋 Olá! Meu nome é Gustavo, atualmente estudo na ETEC MCM, como técnico em informática para internet. Este projeto é destinado para desenvolvimento de atividade e projetos pessoais relacionados.🚀✨</p>
 
 
 ---
@@ -67,18 +64,6 @@
  <h3>🔗 Conecte-se comigo!</h3>
 </div>
 
-
-<p align="center">
- <a href="https://budri.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/✨_Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=black&animate=pulse" alt="Portfolio"/>
- </a>
- <a href="https://www.linkedin.com/in/emilly-budri-bognar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
- </a>
- <a href="https://www.instagram.com/emillybudri/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
- </a>
-</p>
 
 
 <div align="center">
