@@ -8,7 +8,7 @@
 <div align="center">
 
 
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=header&animation=blinking&fontSize=50&fontColor=000000&fontAlignY=40&stroke=008000&strokeWidth=5"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=header&animation=blinking&fontSize=50&fontColor=000000&fontAlignY=40&stroke=87CEFA&strokeWidth=5"/>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Programação=+;Estudante+da+ETEC+MCM)](https://git.io/typing-svg)
