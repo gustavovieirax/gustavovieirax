@@ -11,7 +11,7 @@
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=header&animation=blinking&fontSize=50&fontColor=000000&fontAlignY=40&stroke=008000&strokeWidth=5"/>
 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost+Black&size=32&duration=2500&pause=500&color=00ff00&center=true&vCenter=true&width=800&lines=💻Estudante de programação;🎨 Desenvolvimento de Sites;✨+Criações e projetos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
  
