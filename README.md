@@ -15,10 +15,6 @@
 
 
  
- <p align="center">
-  <a href="https://budri.com.br" target="_blank">
-   <img src="https://img.shields.io/badge/✨_Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=black&animate=pulse" alt="Portfolio"/>
-  </a>
   <a href="https://www.instagram.com/vieiragu_eo/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&animate=glow" alt="Instagram"/>
   </a>
