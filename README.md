@@ -24,7 +24,7 @@
 ---
 
 
-<p align="justify">👋 Olá! Meu nome é Gustavo, atualmente estudo na ETEC MCM, como técnico em informática para internet. Este projeto é destinado para desenvolvimento de atividade e projetos pessoais relacionados.🚀✨</p>
+<p align="justify">👋 Olá! Meu nome é Gustavo, atualmente estudo na ETEC MCM, como técnico em informática para internet. Este projeto é meu portifólio para desenvolvimento de atividade e projetos pessoais relacionados.🚀✨</p>
 
 
 ---
