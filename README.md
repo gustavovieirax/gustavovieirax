@@ -15,7 +15,7 @@
 
 
  
-  <a href="https://www.instagram.com/vieiragu_eo/" target="_blank">
+  <a href="https://www.instagram.com/gustavo_ieira/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&animate=glow" alt="Instagram"/>
   </a>
  </p>
@@ -38,6 +38,7 @@
 <p align="center">
  <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
  <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+ <a href="#"><img src="https://https://www.svgrepo.com/svg/303656/php-logo/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
  <a href="#"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 </p>
 
