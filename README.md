@@ -31,7 +31,7 @@
 
 
 <div align="center">
- <h3>🛠️ Tecnologias & Ferramentas</h3>
+ <h3>🛠️ Tecnologias & Ferramentas (em progresso)</h3>
 </div>
 
 
