@@ -29,7 +29,7 @@
 
 ---
 
-[![](https://img.shields.io/badge/Spotify-Ouvir%20Agora-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/6wKCvu5vV6YAHoGuh41mU4)
+[![](https://img.shields.io/badge/Spotify-Ouvir%20Agora-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/intl-pt/album/1UzrzuOmZfBgXyS3pgKD10?si=79cNeUPpRamxWVqHSGQclQ)
 
 
 <div align="center">
